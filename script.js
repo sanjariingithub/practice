@@ -8,9 +8,10 @@ jQuery(function ($) {
     });
 
     $('.owl-carousel').owlCarousel({
-        loop:true,
-        margin:10,
+        loop:false,
+        margin:0,
         nav:true,
+        dots: false,
         responsive:{
             0:{
                 items:1
