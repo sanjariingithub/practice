@@ -7,7 +7,7 @@ jQuery(function ($) {
         meanScreenWidth: "1099"
     });
 
-    $('.owl-two').owlCarousel({
+    $('.hot-deal__carousel').owlCarousel({
         loop:false,
         margin:10,
         nav:true,
